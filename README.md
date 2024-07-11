@@ -3,7 +3,7 @@ Feedback sobre a aula e expectativas para o Adaptelas
 
 ## Feedback sobre a Aula
 
-Achei a aula muito informativa e interessante. Aprendi bastante sobre o uso do Git e do GitHub, desde a inicialização de um repositório até o envio de commits para o repositório remoto. A abordagem prática e as explicações detalhadas me ajudaram a entender melhor os conceitos. ![ adatelas](https://www.bing.com/images/search?q=Cora%c3%a7%c3%a3o+Roxo+GIF&FORM=IRIBIP)
+Achei a aula muito informativa e interessante. Aprendi bastante sobre o uso do Git e do GitHub, desde a inicialização de um repositório até o envio de commits para o repositório remoto. A abordagem prática e as explicações detalhadas me ajudaram a entender melhor os conceitos. ![ adatelas](https://www.bing.com/images/search?q=Cora%c3%a7%c3%a3o+Roxo+Objeto&FORM=IRIBIP)
 
 
 ## Expectativas para o Adaptelas
