@@ -9,4 +9,4 @@ Achei a aula muito informativa e interessante. Aprendi bastante sobre o uso do G
 
 Espero continuar aprendendo mais sobre o Git e outras ferramentas de desenvolvimento durante o programa Adaptelas. Estou ansiosa para aprimorar minhas habilidades técnicas e colaborar em projetos interessantes. Acredito que o Adaptelas será uma grande oportunidade para meu crescimento profissional e pessoal.
  
- ![ carneira](https://img.freepik.com/vetores-premium/desenho-de-dinossauro-bonito_33070-3355.jpg?w=740)
+ ![ carneira](https://3.bp.blogspot.com/-Wx-_oxrVS5E/WWTnSW_bSWI/AAAAAAAAHV0/BtgCGakFjQAoCZJWtWtdbqWcwOkZ736qwCEwYBhgL/s1600/BDdinosaurs3.png)
